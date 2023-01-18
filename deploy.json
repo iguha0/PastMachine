@@ -1,0 +1,10 @@
+{
+    "apps" : [{
+    "name" : "pastmac",
+    "script" : "yarn dev",
+    "env":{
+    "PORT": "80"
+    }
+    }
+    ]
+    }
